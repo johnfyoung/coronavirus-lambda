@@ -1,0 +1,20 @@
+{
+  "name": "coronavirus-lambda",
+  "version": "1.0.0",
+  "description": "An AWS Lambda function which fetches coronavirus data from Johns Hopkins",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnfyoung/coronavirus-lambda.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johnfyoung/coronavirus-lambda/issues"
+  },
+  "homepage": "https://github.com/johnfyoung/coronavirus-lambda#readme"
+}
